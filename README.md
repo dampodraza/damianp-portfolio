@@ -6,6 +6,7 @@
 ## Stack used:
 
 - ReactJs
+- Typescript
 - Tailwind
 - Framer Motion
 - Three.js
